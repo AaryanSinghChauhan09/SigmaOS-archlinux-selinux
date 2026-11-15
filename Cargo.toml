@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-selinux component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-selinux"
+name = "sigmaos_archlinux_selinux"
 path = "src/lib.rs"
