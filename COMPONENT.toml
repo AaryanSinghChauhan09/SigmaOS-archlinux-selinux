@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-selinux"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-selinux component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
